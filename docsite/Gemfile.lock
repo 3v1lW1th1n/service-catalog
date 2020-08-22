@@ -93,7 +93,7 @@ GEM
       listen (~> 3.0)
     jekyll-youtube (1.0.0)
       jekyll
-    json (1.8.6)
+    json (2.3.0)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
@@ -172,7 +172,7 @@ DEPENDENCIES
   jekyll-theme-time-machine (= 0.0.3)
   jekyll-titles-from-headings (~> 0.1)
   jekyll-youtube (~> 1.0)
-  json (~> 1.7, >= 1.7.7)
+  json (~> 2.3)
   kramdown (~> 1.11)
   minima (~> 2.0)
   pry
